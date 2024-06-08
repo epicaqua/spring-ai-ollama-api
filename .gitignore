@@ -1,0 +1,12 @@
+bin
+build
+.DS_Store
+.classpath
+.gradle
+.project
+.settings
+.idea
+.metadata
+.gradle
+gradle/wrapper/*
+*.jar
